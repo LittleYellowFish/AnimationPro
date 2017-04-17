@@ -1,1 +1,3 @@
 # AnimationPro
+介绍几种andoid常见的几种动画使用，包括：tween动画的translate、scale、aphla和属性动画，还有一些常见的Drawable的使用
+对属性动画经常会出现的问题提供了两种解决方案
